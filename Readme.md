@@ -1,67 +1,15 @@
-# 🎓 Student Performance Prediction System
+# CodeVedX 🚀
 
-## 📌 Project Overview
+This repository contains my Python, Data Analysis and Machine Learning projects.
 
-The Student Performance Prediction System is a Machine Learning project that predicts a student's final marks based on academic performance.
+## Projects
 
-This project uses the Random Forest Regression algorithm to estimate the final marks using different student-related features.
+### 1. Utility Usage Prediction
+- Predict monthly utility usage using Machine Learning.
+- Python, Pandas, Scikit-learn
 
----
+### 2. Student Performance Prediction
+- Predict student final marks based on attendance, study hours and previous marks.
+- Streamlit, Pandas, Scikit-learn, Matplotlib
 
-## 🚀 Features
-
-- Predict Final Marks
-- Grade Prediction
-- Pass/Fail Result
-- Risk Level Detection
-- Data Visualization
-- Machine Learning Model
-- Streamlit Web Application
-
----
-
-## 🛠 Technologies Used
-
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Scikit-Learn
-- Streamlit
-- Joblib
-
----
-
-## 📊 Input Features
-
-- Attendance
-- Study Hours
-- Assignment Marks
-- Previous Marks
-
----
-
-## 🎯 Output
-
-- Predicted Final Marks
-- Grade
-- Pass/Fail
-- Risk Level
-
----
-
-## 📁 Project Structure
-
-StudentPerformancePrediction/
-
-│── app.py
-
-│── train.py
-
-│── student.csv
-
-│── model/
-
-│── README.md
-
-│── requirements.txt
+More projects coming soon...
